@@ -1,0 +1,13 @@
+RACE,GENDER,min,mean,median,max
+American Indian or Alaskan Native,Female,26125,60238,58855,98536
+American Indian or Alaskan Native,Male,26125,60305,60347,81239
+Asian/Pacific Islander,Female,26125,63226,57227,130416
+Asian/Pacific Islander,Male,27914,61033,55461,163228
+Black or African American,Female,24960,48915,44491,150416
+Black or African American,Male,26125,51082,46486,275000
+Hispanic/Latino,Female,26125,46503,43087,126115
+Hispanic/Latino,Male,26104,54782,54090,165216
+Others,Female,63785,63785,63785,63785
+Others,Male,38771,38771,38771,38771
+White,Female,27955,66793,62264,178331
+White,Male,26125,63940,62540,210588
